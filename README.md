@@ -16,6 +16,9 @@
 
 ---
 3. database 연결 확인 (dbeaver)
+
+
+---
    ![image](https://github.com/it-mnm/Django-Login/assets/137988290/86e7d01f-3cb8-49a9-a45a-746647fffc44)
    password :1234
 
